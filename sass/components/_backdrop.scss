@@ -1,0 +1,8 @@
+.backdrop {
+    width: 100vw;
+    position: fixed;
+    height: 100%;
+    top: 0;
+    background: rgba(0, 0, 0, 0.2);
+    transition: opacity 250ms linear, visibility 250ms linear;
+}
